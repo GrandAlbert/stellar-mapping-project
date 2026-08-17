@@ -7,10 +7,13 @@ The goal of this project was to make nearby star systems easier to understand vi
 ## Screenshots & Visualization
 
 ![Star Map View 1](screenshots/2026-02-10_22.40.56.png)
+View of Alpha Centauri star system (Rigil Kentaurus, Toliman, Proxima Centauri) and Barnard's star in their actual relative positions. The first and second nearest star systems to Sol
 
 ![Star Map View 2](screenshots/2026-02-10_23.31.06.png)
+View of Rana (Delta Eridani) a subgiant K0 IV class star 29.6 light-years away
 
 ![Star Map View 3](screenshots/2026-02-10_22.08.27.png)
+View of Sirius star system (Sirius A, Sirius B). The brightest star system in earth's sky
 
 ## Project Overview
 
