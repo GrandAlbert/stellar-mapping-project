@@ -4,6 +4,14 @@ This project is a Python-based pipeline for turning real astronomical catalog da
 
 The goal of this project was to make nearby star systems easier to understand visually. Instead of viewing stars only as numbers in a catalog, this project converts them into a spatial model so that distances, clusters, and relative positions can be explored directly.
 
+## Screenshots & Visualization
+
+![Star Map View 1](2026-02-10_22.40.56.png)
+
+![Star Map View 2]()
+
+![Star Map View 3]()
+
 ## Project Overview
 
 The pipeline performs several main steps:
