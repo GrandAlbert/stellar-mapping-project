@@ -6,7 +6,7 @@ The goal of this project was to make nearby star systems easier to understand vi
 
 ## Screenshots & Visualization
 
-![Star Map View 1](2026-02-10_22.40.56.png)
+![Star Map View 1](screenshots/2026-02-10_22.40.56.png)
 
 ![Star Map View 2]()
 
