@@ -82,9 +82,6 @@ stellar-mapping-project/
   src/
     Python scripts used for dataset processing, coordinate conversion, and command generation.
 
-  data_sample/
-    Small sample datasets used to demonstrate the workflow.
-
   outputs/
     Example generated coordinate files and command outputs.
 
