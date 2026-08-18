@@ -15,6 +15,39 @@ View of Rana (Delta Eridani) a subgiant K0 IV class star 29.6 light-years away
 ![Star Map View 3](screenshots/2026-02-10_22.08.27.png)
 View of Sirius star system (Sirius A, Sirius B). The brightest star system in earth's sky
 
+
+## Star Representation
+
+Stars are represented using different Minecraft blocks based on their **spectral class**, while their shape represents their **luminosity class**.
+
+### Spectral Class / Color
+
+| Spectral Class             | Minecraft Block       |
+| -------------------------- | --------------------- |
+| **M** — Red stars          | Redstone Block        |
+| **K** — Orange stars       | Shroomlight           |
+| **G** — Yellow stars       | Glowstone             |
+| **F** — Yellow-white stars | Ochre Froglight       |
+| **A** — White stars        | Pearlescent Froglight |
+| **B** — Blue-white stars   | Sea Lantern           |
+| **White Dwarfs (D)**       | Blue Ice              |
+| **Other / Unknown**        | Amethyst Block        |
+
+### Luminosity Class / Size
+
+The physical shape of each marker indicates the star's luminosity class:
+
+| Luminosity Class | Star Type             | Minecraft Shape |
+| ---------------- | --------------------- | --------------- |
+| **V**            | Main-sequence / dwarf | Single block    |
+| **IV**           | Subgiant              | 7-block cross   |
+| **III**          | Giant                 | 7-block cross   |
+| **II**           | Bright giant          | 7-block cross   |
+| **Ib / Ia**      | Supergiant            | 3×3×3 cube      |
+
+The cross-shaped stars consist of one central block with one block extending in each of the six cardinal directions. Supergiants are represented by a full 3×3×3 cube.
+O class stars are not represented due to there being no O type stars within 500 light years of Sol which this map depicts
+
 ## Project Overview
 
 The pipeline performs several main steps:
