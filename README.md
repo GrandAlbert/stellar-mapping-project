@@ -82,8 +82,8 @@ stellar-mapping-project/
   src/
     Python scripts used for dataset processing, coordinate conversion, and command generation.
 
-  outputs/
-    Example generated coordinate files and command outputs.
+  saves/
+    An already existing pregenerated world for you to download, this is the world used and seen in the screenshots
 
   datapack/
     Ready-to-use Minecraft datapack files.
