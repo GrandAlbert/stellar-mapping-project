@@ -96,7 +96,7 @@ stellar-mapping-project/
 ```
 ## World Installation
 
-If you wish to install the pregenerated world you see in the screenshots simply go into the saves folder, download 'New World' and place the folder into your saves folder in 1.20.1 .minecraft folder in the %appdata% directory
+If you wish to install the pregenerated world you see in the screenshots simply go into the saves folder, download and unzip 'New World' and place the folder into your saves folder in 1.20.1 .minecraft folder in the %appdata% directory
 It is recommended to open the world with Xaero's Worldmap & Xaero's Minimap mod installed to see the coordinates and waypoints of major stars
 
 
