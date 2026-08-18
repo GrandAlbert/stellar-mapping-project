@@ -19,6 +19,7 @@ View of Sirius star system (Sirius A, Sirius B). The brightest star system in ea
 ## Star Representation
 
 Stars are represented using different Minecraft blocks based on their **spectral class**, while their shape represents their **luminosity class**.
+Distance from Sol and each other is represented by 1 block = 1 light year
 
 ### Spectral Class / Color
 
