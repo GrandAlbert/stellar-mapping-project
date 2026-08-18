@@ -13,13 +13,13 @@ View of Alpha Centauri star system (Rigil Kentaurus, Toliman, Proxima Centauri) 
 View of Rana (Delta Eridani) a subgiant K0 IV class star 29.6 light-years away
 
 ![Star Map View 3](screenshots/2026-02-10_22.08.27.png)
-View of Sirius star system (Sirius A, Sirius B). The brightest star system in earth's sky
+View of Sirius star system (Sirius A, Sirius B). The brightest star system in Earth’s night sky.
 
 
 ## Star Representation
 
 Stars are represented using different Minecraft blocks based on their **spectral class**, while their shape represents their **luminosity class**.
-Distance from Sol and each other is represented by 1 block = 1 light year
+Scale: 1 Minecraft block = 1 light-year.
 
 ### Spectral Class / Color
 
@@ -47,7 +47,7 @@ The physical shape of each marker indicates the star's luminosity class:
 | **Ib / Ia**      | Supergiant            | 3×3×3 cube      |
 
 The cross-shaped stars consist of one central block with one block extending in each of the six cardinal directions. Supergiants are represented by a full 3×3×3 cube.
-O class stars are not represented due to there being no O type stars within 500 light years of Sol which this map depicts
+O-class stars are not represented because there are no O-type stars within the 500-light-year radius shown in this map.
 
 ## Project Overview
 
@@ -85,7 +85,7 @@ stellar-mapping-project/
   saves/
     An already existing pregenerated world for you to download, this is the world used and seen in the screenshots
 
-  datapack/
+  datapacks/
     Ready-to-use Minecraft datapack files.
 
   screenshots/
@@ -106,7 +106,7 @@ A ready-to-use datapack is included for anyone who wants to view the generated s
 
 ### How to Install the Datapack
 
-1. Download file 'starmap'
+1. Download this repository as a ZIP file, unzip it, then copy the folder `datapacks/starmap` into your Minecraft world's `datapacks` folder.
 2. Go to %appdata% .minecraft folder or access the location of the world's save folder
 3. Copy the 'starmap' folder into your Minecraft world’s `datapacks` folder. 
 
